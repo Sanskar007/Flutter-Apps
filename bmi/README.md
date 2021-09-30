@@ -1,4 +1,4 @@
-# bmi
+# BMI : Body Mass Index
 
 A new Flutter project.
 
